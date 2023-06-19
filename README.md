@@ -2,7 +2,7 @@
 - 👀 I’m interested in nnn
 - 🌱 I’m currently learning this
 - 💞️ I’m looking to collaborate on www
-- 📫 How to reach me skype
+- 📫 How to reach me skype and gmail
 
 <!---
 njungee/njungee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
